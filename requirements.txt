@@ -1,0 +1,2 @@
+jupyter-contrib-nbextensions==0.5.1
+webio-jupyter-extension==0.1.0
